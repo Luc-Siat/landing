@@ -1,0 +1,20 @@
+.footer {
+  margin-top: 30px;
+  background: #2C2B2B;
+  width: 100%;
+  text-align: center;
+  padding: 100px 0;
+  color: rgb(136, 135, 135);
+}
+
+
+.footer p > i {
+  color: red;
+}
+
+.links a {
+  display: inline;
+  color: #1EDD88;
+  font-size: 32px;
+  padding: 5px;
+}
